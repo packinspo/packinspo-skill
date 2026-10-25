@@ -1,0 +1,13 @@
+{
+  "name": "packinspo",
+  "description": "Packinspo: real packaging references and researched pack styles for AI agents",
+  "owner": { "name": "Packinspo", "email": "hello@packinspo.com" },
+  "plugins": [
+    {
+      "name": "packinspo",
+      "source": "./",
+      "description": "Research real packaging before designing it: the Packinspo MCP server plus a packaging research skill.",
+      "version": "1.0.0"
+    }
+  ]
+}

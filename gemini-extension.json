@@ -1,0 +1,9 @@
+{
+  "name": "packinspo",
+  "version": "1.0.0",
+  "description": "Research real packaging before designing it: Packinspo MCP server plus a packaging research skill.",
+  "mcpServers": {
+    "packinspo": { "httpUrl": "https://packinspo.com/mcp" }
+  },
+  "contextFileName": "skills/packinspo-research/SKILL.md"
+}

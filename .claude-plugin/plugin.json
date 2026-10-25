@@ -1,0 +1,9 @@
+{
+  "name": "packinspo",
+  "version": "1.0.0",
+  "description": "Research real packaging before designing it: the Packinspo MCP server (packs, pack styles, PACK.md) plus a packaging research skill.",
+  "author": { "name": "Packinspo", "url": "https://packinspo.com" },
+  "homepage": "https://packinspo.com/connect",
+  "license": "MIT",
+  "keywords": ["packaging", "design", "branding", "label", "mcp", "pack-style"]
+}
